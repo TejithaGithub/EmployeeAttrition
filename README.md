@@ -20,7 +20,7 @@ The data is for company X which is trying to control attrition. There are two se
 -	Whether the employee has left
 -	Objective
 
-#### Outcome of the Project:
-##### What type of employees are leaving?
-##### Predict/Determine which employees are prone to leave next.
-##### Recommendations
+### Outcome of the Project:
+- **What type of employees are leaving?**
+- **Predict/Determine which employees are prone to leave next.**
+- **Recommendations**
